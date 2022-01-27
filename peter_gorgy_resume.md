@@ -29,13 +29,13 @@ WORK EXPERIENCE
         Provides technical assistance related to merchant acquiring, POS, other e-Payment channels, Bill Payment ... etc.
         Prepare and update for daily-work manual-procedures for the payment support services.
     Lead ePayments Solutions (Orange Egypt, April 2017 - March 2020)
-Monitor and ensure the availability of the application on a regular basis.
-Day-to-Day Applications Operations / administrations (EOD, users’ management … etc.).
-Manage the basic deployments on the different environments.
-Troubleshoot and handle the operations of different e-Payment systems / applications and report any errors or bugs and participate in work around and applying solutions.
-Review and handle reported complaints and issues.
-Perform the needed UAT testing for the assigned systems.
-Lead Data Warehouse ETL Operations Support (Orange Egypt, April 2016 - March 2017)
+        Monitor and ensure the availability of the application on a regular basis.
+        Day-to-Day Applications Operations / administrations (EOD, users’ management … etc.).
+        Manage the basic deployments on the different environments.
+        Troubleshoot and handle the operations of different e-Payment systems / applications and report any errors or bugs and participate in work around and applying solutions.
+        Review and handle reported complaints and issues.
+        Perform the needed UAT testing for the assigned systems.
+    Lead Data Warehouse ETL Operations Support (Orange Egypt, April 2016 - March 2017)
 Monitor data loads (ETL batch jobs) to Teradata EDW.
 Troubleshooting failed jobs.
 Responsible for creating the house keeping jobs to maintain the Data Quality of the Data Warehouse system.
