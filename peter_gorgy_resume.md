@@ -5,29 +5,30 @@ www.linkedin.com/in/petergorgy
 
 
 Detail-oriented IT professional with 15+ years of experience in E-Payments Services, Business Solutions, Software Development, and System Operations.
+
 WORK EXPERIENCE
-Senior Supervisor E-Payments Solutions (Orange Egypt, April 2020 - Present)
-As a ePayments solution owner in an agile team, I'm responsible for:
-Developing epayments solution roadmaps
-Prioritizing features
-Building product requirements documents
-Using product analytics to make decisions
-Oversee the daily activities and workflow of Payment Systems and Payments Operations Support; plan and establish priorities and schedules.
-Provide assistance, guidance, and supervisory support for self-service electronic payment channel activities, including mobile banking, online banking, debit and credit cards, funds transfer, and bill payments.
-Oversee and respond to Payment Systems and Operations Support help desk requests, ensuring accurate, efficient, and timely member service and issue resolution.
-Ensure the Operations Support and Payments Systems is in compliance and operating within regulatory guidelines.
-Administers performance reviews and conducts coaching sessions with staff, providing guidance for professional development.
-Level II technical support for complex or sensitive e-Payment application support services.
-Investigating and resolving escalated e-Payment processing issues and incident reports.
-Interacts with vendors in support of e-Payment system processing related issues.
-Provide the necessary support to trace and solve ATMs/POSs, internal channels and e-Payment applications problems.
-Responsible for the administration of the e-Payment servers, software and other related ePayments platform.
-Coordinates with vendors/internal technical staff for the connectivity between ePayment Gateway and of any internal payment channels, ATM, POS terminals, and other interfaces.
-Implements configuration and parameter setting/fine-tuning to improve the overall payment channels and POS Switch systems performance.
-Regularly monitors system activities and performance, and prepares performance reports.
-Provides technical assistance related to merchant acquiring, POS, other e-Payment channels, Bill Payment ... etc.
-Prepare and update for daily-work manual-procedures for the payment support services.
-Lead ePayments Solutions (Orange Egypt, April 2017 - March 2020)
+    Senior Supervisor E-Payments Solutions (Orange Egypt, April 2020 - Present)
+        As a ePayments solution owner in an agile team, I'm responsible for:
+            Developing epayments solution roadmaps
+            Prioritizing features
+            Building product requirements documents
+            Using product analytics to make decisions
+        Oversee the daily activities and workflow of Payment Systems and Payments Operations Support; plan and establish priorities and schedules.
+        Provide assistance, guidance, and supervisory support for self-service electronic payment channel activities, including mobile banking, online banking, debit and credit cards, funds transfer, and bill payments.
+        Oversee and respond to Payment Systems and Operations Support help desk requests, ensuring accurate, efficient, and timely member service and issue resolution.
+        Ensure the Operations Support and Payments Systems is in compliance and operating within regulatory guidelines.
+        Administers performance reviews and conducts coaching sessions with staff, providing guidance for professional development.
+        Level II technical support for complex or sensitive e-Payment application support services.
+        Investigating and resolving escalated e-Payment processing issues and incident reports.
+        Interacts with vendors in support of e-Payment system processing related issues.
+        Provide the necessary support to trace and solve ATMs/POSs, internal channels and e-Payment applications problems.
+        Responsible for the administration of the e-Payment servers, software and other related ePayments platform.
+        Coordinates with vendors/internal technical staff for the connectivity between ePayment Gateway and of any internal payment channels, ATM, POS terminals, and other interfaces.
+        Implements configuration and parameter setting/fine-tuning to improve the overall payment channels and POS Switch systems performance.
+        Regularly monitors system activities and performance, and prepares performance reports.
+        Provides technical assistance related to merchant acquiring, POS, other e-Payment channels, Bill Payment ... etc.
+        Prepare and update for daily-work manual-procedures for the payment support services.
+    Lead ePayments Solutions (Orange Egypt, April 2017 - March 2020)
 Monitor and ensure the availability of the application on a regular basis.
 Day-to-Day Applications Operations / administrations (EOD, users’ management … etc.).
 Manage the basic deployments on the different environments.
