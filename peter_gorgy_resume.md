@@ -117,7 +117,6 @@ LANGUAGE SKILLS
 English: Full professional proficiency
 French:  Limited working proficiency
 Arabic:   Native
-Hebrew: Elementary proficiency
 
 PERSONAL DATA
 Data of Birth: 13-Oct-1981
